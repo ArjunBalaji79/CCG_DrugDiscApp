@@ -1,1 +1,1 @@
-# DrugDiscoveryWebapp
+# DrugDiscApp
