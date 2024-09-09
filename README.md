@@ -1,3 +1,3 @@
-# Drug Discovery App
+# Drug Discovery Preprocessing
 
-Relevant Data Prepocessing code 
+Relevant Data Prepocessing code to drop duplicate Mol-Port IDs and obtain the properties using RDKit.
